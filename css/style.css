@@ -109,3 +109,29 @@ body {
     height: 428px;
     padding: 110px 78px 0px 76px;
 }
+
+/* Hot deal part CSS */
+.deal-section {
+
+    padding: 100px 300px 100px 300px;
+    background: rgba(229, 84, 115, 0.05);
+    margin: 50px 0px 130px 0px;
+}
+
+.deal-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.highlight {
+    color: #E55473;
+}
+
+.deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 25px;
+}
