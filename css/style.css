@@ -12,6 +12,7 @@ body {
     align-items: center;
     padding: 130px 150px 0px;
     background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 170px;
 }
 
 .header-title {
@@ -35,4 +36,76 @@ body {
     font-weight: 700;
     color: #FFF;
     background: #E55473;
+}
+
+/* Our Featured Flowers part CSS */
+.featured-section {
+    padding: 0px 150px;
+}
+
+.featured-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 24px;
+}
+
+.featured-discription {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 50px;
+}
+
+.featured-flower-container {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 24px;
+}
+
+.featured-image-1 {
+    width: 464px;
+    height: 538px;
+    border: none;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    text-align: center;
+    line-height: 35px;
+    text-decoration: 2px underline;
+    text-decoration-color: #E55473;
+
+
+}
+
+.featured-image-2 {
+    width: 464px;
+    height: 538px;
+    border: none;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    text-align: center;
+    line-height: 35px;
+    text-decoration: 2px underline;
+    text-decoration-color: #E55473;
+}
+
+.featured-image-3 {
+    width: 464px;
+    height: 538px;
+    border: none;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    text-align: center;
+    line-height: 35px;
+    text-decoration: 2px underline;
+    text-decoration-color: #E55473;
+}
+
+.featured-flower {
+    width: 310px;
+    height: 428px;
+    padding: 110px 78px 0px 76px;
 }
