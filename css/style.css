@@ -153,6 +153,7 @@ body {
     background-size: cover;
     margin: 0px 220px 0px 220px;
     line-height: 30px;
+    margin-bottom: 130px;
 }
 
 input[type="email"] {
@@ -162,4 +163,28 @@ input[type="email"] {
     border-radius: 5px;
     padding-top: 2px;
     margin: 10px;
+}
+
+/* Footer CSS */
+.footer-container {
+    text-align: center;
+    background: #111010;
+    padding: 200px;
+}
+
+.footer-title {
+    color: white;
+    padding-bottom: 25px;
+}
+
+.footer-details {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 35px;
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
 }
