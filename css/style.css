@@ -144,6 +144,10 @@ body {
     margin-bottom: 130px;
 }
 
+.insta-img-container img {
+    border-radius: 8px;
+}
+
 /* Get The Latest Deals */
 .latest-deal-container {
     padding: 100px 250px 100px 250px;
