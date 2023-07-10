@@ -135,3 +135,31 @@ body {
     font-weight: 800;
     padding-bottom: 25px;
 }
+
+/* Instagram part CSS */
+.insta-img-container {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 130px;
+}
+
+/* Get The Latest Deals */
+.latest-deal-container {
+    padding: 100px 250px 100px 250px;
+    text-align: center;
+    background-image: url("../Flower\ Asset/Rectangle-9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px 220px 0px 220px;
+    line-height: 30px;
+}
+
+input[type="email"] {
+    width: 700px;
+    height: 64px;
+    border: 2px solid rgba(128, 128, 128, 0.61);
+    border-radius: 5px;
+    padding-top: 2px;
+    margin: 10px;
+}
