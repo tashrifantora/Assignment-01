@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Header CSS */
+.header-container {
+    display: flex;
+    align-items: center;
+    padding: 130px 150px 0px;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.header-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+
+.header-discription {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+.primary-button {
+    padding: 20px 43px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    color: #FFF;
+    background: #E55473;
+}
