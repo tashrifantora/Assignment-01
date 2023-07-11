@@ -182,7 +182,7 @@ hr {
 .deal-section {
 
     padding: 150px 300px 100px 300px;
-    background: rgba(229, 84, 115, 0.05);
+    background: rgba(71, 125, 17, 0.15);
     margin: 100px 0px 130px 0px;
 }
 
@@ -240,23 +240,23 @@ input[type="email"] {
 /* Footer CSS */
 .footer-container {
     text-align: center;
-    background: #111010;
+    background: rgba(5, 151, 160, 0.15);
     padding: 200px;
 }
 
 .footer-title {
-    color: white;
+    color: black;
     padding-bottom: 25px;
 }
 
 .footer-details {
-    color: rgba(255, 255, 255, 0.90);
+    color: black;
     font-size: 18px;
     line-height: 30px;
     padding-bottom: 35px;
 }
 
 .copyright {
-    color: rgba(255, 255, 255, 0.40);
+    color: rgb(76, 75, 75);
     font-size: 16px;
 }
